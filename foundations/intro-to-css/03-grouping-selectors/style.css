@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.Dark.light{
+background-color: black;
+color:white;
+font-family:sans-serif;
+}
+
+.Dark.peach{
+background-color:yellow;
+}
+
+.Dark{
+    font-size:28px;
+    font-family: Times New Roman, Helvetica, sans-serif;
+}
