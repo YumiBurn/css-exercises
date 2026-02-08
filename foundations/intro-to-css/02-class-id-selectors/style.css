@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.Rammy{
+  background-color: lightcoral;
+font-family:Verdana,DejaVu Sans,sans-serif;
+}
+
+.Rammy.sleeper{
+   font-size: 24px;
+}
+#Greedy{
+color:blue;
+font-size:36px;
+
+}
+#Gummy{
+font-weight:bold;
+font-size:24px;
+background-color:lightgreen;
+}
